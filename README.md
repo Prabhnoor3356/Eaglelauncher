@@ -25,30 +25,30 @@ npm run start
 ```
 
 Choose your platform:
-a → Android
-i → iOS
-w → Web
-3. Reset / Lint
+*a → Android
+*i → iOS
+*w → Web
+##3. Reset / Lint
 ```bash
 npm run reset-project
 npm run lint
 ```
-🛠️ Tech Stack
-Expo ~53
-React Native 0.79
-TypeScript
-NativeWind (Tailwind)
-Supabase (backend ready)
-Reanimated 3, Lottie, etc.
-🗺️ Roadmap
-[ ] Microsoft/Xbox Live authentication
-[ ] Minecraft version downloader + instance management
-[ ] Mod & modpack support (Modrinth/CurseForge)
-[ ] Server list
-[ ] Skin changer
-[ ] Full launcher home screen with tabs
-🤝 Contributing
-Pull requests are welcome! See issues or create one.
-📜 License
-MIT (or update as you prefer)
-Made with ❤️ for the Minecraft community
+##🛠️ Tech Stack
+*Expo ~53
+*React Native 0.79
+*TypeScript
+*NativeWind (Tailwind)
+*Supabase (backend ready)
+*Reanimated 3, Lottie, etc.
+##🗺️ Roadmap
+*[ ] Microsoft/Xbox Live authentication
+*[ ] Minecraft version downloader + *instance management
+*[ ] Mod & modpack support (Modrinth/*CurseForge)
+*[ ] Server list
+*[ ] Skin changer
+*[ ] Full launcher home screen with tabs
+##🤝 Contributing
+*Pull requests are welcome! See issues or *create one.
+##📜 License
+*MIT (or update as you prefer)
+*Made with ❤️ for the Minecraft community
