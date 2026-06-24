@@ -1,73 +1,50 @@
-# Welcome Bros 😁 
-Well i don't have that much to say just downlod this sht if u want this is an minecraft launcher almost copied from alot of other launcher i will credit them later here is the tutorial stuff -
+# 🦅 EagleLauncher
 
-## Getting Started
+**A modern Minecraft launcher for mobile (Android & iOS)** built with **Expo + React Native**.
 
-### 1. Install Dependencies
+![EagleLauncher](https://via.placeholder.com/800x400/4B0082/FFFFFF?text=EagleLauncher+Screenshot) <!-- Replace with real screenshots later -->
 
+## ✨ Features
+- Beautiful Amethyst/Dark theme with smooth animations
+- Offline username login (Microsoft auth coming soon)
+- Launcher home with instances, mods, and settings
+- Built with Expo Router, NativeWind (Tailwind), Reanimated
+- TypeScript + modern best practices
+
+## 🚀 Getting Started
+
+### 1. Clone & Install
 ```bash
+git clone https://github.com/Prabhnoor3356/Eaglelauncher.git
+cd Eaglelauncher
 npm install
 # or
-yarn install
-```
-
-### 2. Start the Project
-
-- Start the development server (choose your platform):
-
-```bash
-npm run start         # Start Expo development server
-npm run android       # Launch Android emulator
-npm run ios           # Launch iOS simulator
-npm run web           # Start the web version
-```
-
-- Reset the project (clear cache, etc.):
-
-```bash
+pnpm install
+2. Run the App
+npm run start
+Choose your platform:
+a → Android
+i → iOS
+w → Web
+3. Reset / Lint
 npm run reset-project
-```
-
-### 3. Lint the Code
-
-```bash
 npm run lint
-```
-
-## Main Dependencies
-
-- React Native: 0.79.4
-- React: 19.0.0
-- Expo: ~53.0.12
-- Expo Router: ~5.1.0
-- Supabase: ^2.50.0
-- Other commonly used libraries:  
-  - @expo/vector-icons  
-  - react-native-paper  
-  - react-native-calendars  
-  - lottie-react-native  
-  - react-native-webview  
-  - and more
-
-For a full list of dependencies, see [package.json](./package.json).
-
-## Development Tools
-
-- TypeScript: ~5.8.3
-- ESLint: ^9.25.0
-- @babel/core: ^7.25.2
-
-## Contributing
-
-1. Fork this repository
-2. Create a new branch (`git checkout -b main`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
-## License
-idk 😁
-
----
-
-Feel free to add project screenshots, API documentation, feature descriptions, or any other information as needed.
+🛠️ Tech Stack
+Expo ~53
+React Native 0.79
+TypeScript
+NativeWind (Tailwind)
+Supabase (backend ready)
+Reanimated 3, Lottie, etc.
+🗺️ Roadmap
+[ ] Microsoft/Xbox Live authentication
+[ ] Minecraft version downloader + instance management
+[ ] Mod & modpack support (Modrinth/CurseForge)
+[ ] Server list
+[ ] Skin changer
+[ ] Full launcher home screen with tabs
+🤝 Contributing
+Pull requests are welcome! See issues or create one.
+📜 License
+MIT (or update as you prefer)
+Made with ❤️ for the Minecraft community
