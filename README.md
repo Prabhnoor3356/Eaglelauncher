@@ -23,13 +23,16 @@ pnpm install
 2. Run the App
 npm run start
 ```
+
 Choose your platform:
 a → Android
 i → iOS
 w → Web
 3. Reset / Lint
+```bash
 npm run reset-project
 npm run lint
+```
 🛠️ Tech Stack
 Expo ~53
 React Native 0.79
