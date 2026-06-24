@@ -66,8 +66,7 @@ For a full list of dependencies, see [package.json](./package.json).
 5. Open a Pull Request
 
 ## License
-
-This project is private ("private": true). For collaboration inquiries, please contact the author.
+idk 😁
 
 ---
 
