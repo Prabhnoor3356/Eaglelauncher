@@ -22,6 +22,7 @@ npm install
 pnpm install
 2. Run the App
 npm run start
+'''bash
 Choose your platform:
 a → Android
 i → iOS
